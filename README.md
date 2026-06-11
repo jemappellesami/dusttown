@@ -2,7 +2,7 @@
 
 A tactical bomb-defusal FPS that runs entirely in your browser — one HTML file, zero dependencies to install, nothing to build.
 
-**▶ Play it here:** https://YOUR-USERNAME.github.io/dusttown/
+**▶ Play it here:** https://jemappellesami.github.io/dusttown/
 
 *(Desktop only — requires mouse + keyboard and pointer lock.)*
 
